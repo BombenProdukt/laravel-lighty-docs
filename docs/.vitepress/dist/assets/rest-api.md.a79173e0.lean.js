@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,V as l}from"./chunks/framework.d3b95951.js";const h=JSON.parse('{"title":"REST API","description":"","frontmatter":{},"headers":[],"relativePath":"rest-api.md","filePath":"rest-api.md"}'),e={name:"rest-api.md"},o=l("",33),p=[o];function t(c,r,C,D,y,A){return a(),n("div",null,p)}const u=s(e,[["render",t]]);export{h as __pageData,u as default};
